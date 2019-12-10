@@ -10,7 +10,7 @@ We wrote a bash script to open the project and to show it as a screen saver by o
 
 ### Repo
 
-The project works locally without downloading libraries. Internet connection is not necessay, librairies are copied, to preven issue when networking is not working. You only won't be able to dowload the texture in the screen saver.
+The project works locally without downloading libraries. Internet connection is not necessary; libraries are copied, to prevent issue when networking is not working. You only will not be able to download the texture in the screen saver if you are running the project without having Internet.
 
 ### Word report
 
