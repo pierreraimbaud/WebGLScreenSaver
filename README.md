@@ -1,7 +1,7 @@
 ## A screen saver using random cubic Bezier curves in WEBGL
 
-### How to obtain and use it
-To download and see the source : Just clone or download the project here (this Github repo). </br></br>
+### How to obtain and use it (source and executable files)
+To download and see the source : just clone or download the project here (this Github repo). </br></br>
 To launch it, you can use the bash file screenSaver.bat (for Windows) or open the file index.html in a browser.
 
 ### Links to the demo (web and video)
