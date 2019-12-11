@@ -1,8 +1,8 @@
 ## A screen saver using random cubic Bezier curves in WEBGL
 
-### Link
-
-https://pierreraimbaud.github.io/WebGLScreenSaver/
+### Links to the demo (web and video)
+Web : https://pierreraimbaud.github.io/WebGLScreenSaver/
+Video: https://youtu.be/VCaubZVM4ow
 
 ### Bash for Windows
 
